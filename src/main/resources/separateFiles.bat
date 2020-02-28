@@ -1,0 +1,1 @@
+java -cp batch.jar;lib/*;. pe.soapros.start.process.StartProcessSeparateFiles
